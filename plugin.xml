@@ -12,9 +12,6 @@
     
     <license>MIT</license>
 
-	<platform name="android">
-		<source-file src="google-services.json" target-dir="./"/>
-	</platform>
 
 	<platform name="ios">
 		<source-file src="GoogleService-Info.plist"/>
