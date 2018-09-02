@@ -1,3 +1,42 @@
 {
-  // dummy google-servies file !! replace with your configuration
+  "project_info": {
+    "project_number": "166839046044",
+    "firebase_url": "https://novaempreendimentos-b0c08.firebaseio.com",
+    "project_id": "novaempreendimentos-b0c08",
+    "storage_bucket": "novaempreendimentos-b0c08.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:166839046044:android:a443a30a1ec688cd",
+        "android_client_info": {
+          "package_name": "br.com.novaempreendimentos"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "166839046044-bbbtimasqjf5j5puiu2l64e4d4ond6cl.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBMNHykJj4wNTBFrVJxvALw9Vto1YRmdFk"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 1,
+          "other_platform_oauth_client": []
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
 }
