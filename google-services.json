@@ -1,1 +1,43 @@
 
+{
+  "project_info": {
+    "project_number": "184425877123",
+    "firebase_url": "https://sat-aprovacoes.firebaseio.com",
+    "project_id": "sat-aprovacoes",
+    "storage_bucket": "sat-aprovacoes.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:184425877123:android:82761a7941725816",
+        "android_client_info": {
+          "package_name": "br.com.sat.sataprovacoes"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "184425877123-7r0552rejmei0chvinljachece49rjis.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAigkv2rWal6Vsj3_OfUgwCFyzTw7isJvM"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 1,
+          "other_platform_oauth_client": []
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
